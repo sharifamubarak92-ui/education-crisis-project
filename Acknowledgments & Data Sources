@@ -1,0 +1,24 @@
+# Acknowledgments & Data Sources
+
+## Data Sources
+
+This project uses data from the following sources:
+
+### 1. IPUMS USA
+- **Provider:** University of Minnesota
+- **Website:** [https://www.ipums.org](https://www.ipums.org)
+- **Description:** U.S. census and survey data covering 17 million full-time worker records (1994-2023)
+
+### 2. Adult Income Prediction Dataset
+- **Provider:** Kaggle / Mosa P. Abdelghany
+- **URL:** [https://www.kaggle.com/datasets/mosapabdelghany/adult-income-prediction-dataset](https://www.kaggle.com/datasets/mosapabdelghany/adult-income-prediction-dataset)
+
+## Citation
+
+If you use this project or its findings in your research, please cite:
+
+> Mubarak, S. (2026). The Power of Education in Times of Crisis: Analyzing the Relationship Between Education and Income (1994-2023). GitHub. https://github.com/sharifamubarak92-ui/education-crisis-project
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
